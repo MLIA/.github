@@ -64,5 +64,5 @@
 ## Experiment manager and datasets
 
 - 2017
-  – [Experimaestro](https://github.com/MLIA/experimaestro-python): Experiment manager based on a server that contains a job scheduler
-  – [Datamaestro](https://github.com/MLIA/datamaestro)
+  - [Experimaestro](https://github.com/MLIA/experimaestro-python): Experiment manager based on a server that contains a job scheduler
+  - [Datamaestro](https://github.com/MLIA/datamaestro)
