@@ -6,6 +6,7 @@
   - [GAN(TK)²: A Neural Tangent Kernel Perspective of GANs](https://github.com/MLIA/gantk2) ([paper](https://arxiv.org/abs/2106.05566))
 - 2019:
   - [On Lazy Training in Differentiable Programming](https://github.com/MLIA/lazy-training-CNN) ([paper](https://arxiv.org/abs/1812.07956)) (NeurIPS 2019) 
+  - [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://github.com/MLIA/UnsupervisedScalableRepresentationLearningTimeSeries) ([paper](https://papers.nips.cc/paper/2019/hash/53c6de78244e9f528eb3e1cda69699bb-Abstract.html)) (NeurIPS 2019)
 
 ## Computer Vision
 
@@ -15,11 +16,10 @@
   - [PLOP: Continual learning for segmentation](https://github.com/MLIA/CVPR2021_PLOP) ([paper](https://arxiv.org/abs/2011.11390)) (CVPR 2021)
 - 2020
   - [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://github.com/MLIA/ESL) ([paper](https://arxiv.org/abs/2006.08658)) (CVPR 2020 Workshop on Scalability in Autonomous Driving)
-  - [Stochastic Latent Residual Video Prediction](https://github.com/MLIA/srvp) ([paper](https://arxiv.org/abs/2002.09219)) (ICML 2020) 
+  - [Stochastic Latent Residual Video Prediction](https://github.com/MLIA/srvp) ([paper](https://proceedings.mlr.press/v119/franceschi20a.html)) (ICML 2020) 
   - [Incremental learning for image classification (+ zero-shot)](https://github.com/MLIA/incremental_learning.pytorch) ([paper](https://arxiv.org/abs/2004.13513)) (ECCV 2020)
 - 2019
   - [Unsupervised Object Segmentation by Redrawing](https://github.com/MLIA/ReDO) ([paper](https://arxiv.org/abs/1905.13539)) (NeurIPS 2019)
-  - [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://github.com/MLIA/UnsupervisedScalableRepresentationLearningTimeSeries) ([paper](https://arxiv.org/abs/1901.10738)) (LLD@ICLR2019)
 - 2017
   - [FaderNetworks](https://github.com/MLIA/FaderNetworks) ([paper](https://arxiv.org/abs/1706.00409)) (NIPS 2017), work in collaboration with Facebook Research
   - [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://github.com/MLIA/vqa.pytorch) ([paper](https://arxiv.org/abs/1705.06676)) (ICCV 2017)
@@ -46,7 +46,7 @@
 
 - 2021
   - [LEADS: Learning Dynamical Systems that Generalize Across Environments](https://github.com/MLIA/LEADS) ([paper](https://arxiv.org/abs/2106.04546)) (NeurIPS 2021)
-  - [PDE-Driven Spatiotemporal Disentanglement](https://github.com/MLIA/spatiotemporal_variable_separation) ([paper](https://arxiv.org/abs/2008.01352)) (ICLR 2021)
+  - [PDE-Driven Spatiotemporal Disentanglement](https://github.com/MLIA/spatiotemporal_variable_separation) ([paper](https://openreview.net/forum?id=vLaHRtHvfFp)) (ICLR 2021)
   - [APHYNITY: Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting](https://github.com/MLIA/APHYNITY) ([paper](https://arxiv.org/abs/2010.04456)) (ICLR 2021, Oral)
 - 2018
   - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://openreview.net/pdf?id=By4HsfWAZ) ([paper](https://arxiv.org/abs/1711.07970)) (ICLR 2018)
