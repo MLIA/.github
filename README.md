@@ -45,9 +45,11 @@
 ## Spatiotemporal phenomenon - dynamical systems
 
 - 2021
-  - [Spatiotemporal prediction and disentanglement](https://github.com/MLIA/spatiotemporal_variable_separation) ([paper](https://arxiv.org/abs/2008.01352)) (ICLR 2021)
   - [LEADS: Learning Dynamical Systems that Generalize Across Environments](https://github.com/MLIA/LEADS) ([paper](https://arxiv.org/abs/2106.04546)) (NeurIPS 2021)
+  - [PDE-Driven Spatiotemporal Disentanglement](https://github.com/MLIA/spatiotemporal_variable_separation) ([paper](https://arxiv.org/abs/2008.01352)) (ICLR 2021)
   - [APHYNITY: Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting](https://github.com/MLIA/APHYNITY) ([paper](https://arxiv.org/abs/2010.04456)) (ICLR 2021, Oral)
+- 2018
+  - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://openreview.net/pdf?id=By4HsfWAZ) ([paper](https://arxiv.org/abs/1711.07970)) (ICLR 2018)
 
 ## Scattering for audio, image, 3D
 
