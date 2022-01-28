@@ -16,7 +16,7 @@
   - [PLOP: Continual learning for segmentation](https://github.com/MLIA/CVPR2021_PLOP) ([paper](https://arxiv.org/abs/2011.11390)) (CVPR 2021)
 - 2020
   - [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://github.com/MLIA/ESL) ([paper](https://arxiv.org/abs/2006.08658)) (CVPR 2020 Workshop on Scalability in Autonomous Driving)
-  - [Stochastic Latent Residual Video Prediction](https://github.com/MLIA/srvp) ([paper](https://proceedings.mlr.press/v119/franceschi20a.html)) (ICML 2020) 
+  - [SRVP: Stochastic Latent Residual Video Prediction](https://github.com/MLIA/srvp) ([paper](https://proceedings.mlr.press/v119/franceschi20a.html)) (ICML 2020) 
   - [Incremental learning for image classification (+ zero-shot)](https://github.com/MLIA/incremental_learning.pytorch) ([paper](https://arxiv.org/abs/2004.13513)) (ECCV 2020)
 - 2019
   - [Unsupervised Object Segmentation by Redrawing](https://github.com/MLIA/ReDO) ([paper](https://arxiv.org/abs/1905.13539)) (NeurIPS 2019)
