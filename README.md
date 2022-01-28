@@ -34,9 +34,9 @@
   - [PARENTing via Model-Agnostic Reinforcement Learning to Correct Pathological Behaviors in Data-to-Text Generation](https://github.com/MLIA/PARENTing-rl) ([paper](https://arxiv.org/abs/2010.10866)) (INLG 2020)
   - [Hierarchical model for data-to-text](https://github.com/MLIA/data-to-text-hierarchical) ([paper](https://arxiv.org/abs/1912.10011)) (ECIR 2020)
   - [Information extraction setup – “Let’s Stop Incorrect Comparisons in End-to-End Relation Extraction!”](https://github.com/MLIA/sincere) ([paper](https://arxiv.org/abs/2009.10684)) (EMNLP 2020)
-  - [Contextualized Embeddings in Named-Entity Recognition](https://github.com/MLIA/contener) ([paper](https://arxiv.org/abs/2001.08053)) (ECIR 2020)
+  - [ContENER: Contextualized Embeddings in Named-Entity Recognition](https://github.com/MLIA/contener) ([paper](https://arxiv.org/abs/2001.08053)) (ECIR 2020)
 - 2019 
-  - [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://github.com/MLIA/summa-qa) ([paper](https://arxiv.org/abs/1909.01610)) (EMNLP 2019)
+  - [SummaQA: Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://github.com/MLIA/summa-qa) ([paper](https://arxiv.org/abs/1909.01610)) (EMNLP 2019)
 - 2017 
   - [Semantic embedding evaluation platform](https://github.com/MLIA/embedding_evaluation) (word similarity, concretness, feature norm prediction)
 - 2015 
@@ -51,18 +51,23 @@
 - 2018
   - [Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge](https://openreview.net/pdf?id=By4HsfWAZ) ([paper](https://arxiv.org/abs/1711.07970)) (ICLR 2018)
 
-## Scattering for audio, image, 3D
+## Scattering for Audio, Image, 3D
 
 - 2018 
-  – [KYMAT](https://github.com/kymatio/kymatio) (for torch, tf, keras, np) ([paper](https://jmlr.org/papers/volume21/19-047/19-047.pdf))
+  - [KYMAT](https://github.com/MLIA/kymatio) (for torch, tf, keras, np) ([paper](https://jmlr.org/papers/volume21/19-047/19-047.pdf))
 
-## Social network
+## Social Network
 
 - 2014
-  - [Learning Social Network Embeddings for Predicting Information Diffusion](https://github.com/ludc/social_network_diffusion_embeddings) ([paper](https://dl.acm.org/doi/10.1145/2556195.2556216)) (WSDM 2014).
+  - [Learning Social Network Embeddings for Predicting Information Diffusion](https://github.com/MLIA/social_network_diffusion_embeddings) ([paper](https://dl.acm.org/doi/10.1145/2556195.2556216)) (WSDM 2014).
 
-## Experiment manager and datasets
+## Reinforcement Learning
+
+- 2016
+  - [rltorch](https://github.com/MLIA/rltorch): A RL package for Torch that can also be used with openai gym
+
+## Experiment Manager and Datasets
 
 - 2017
-  - [Experimaestro](https://github.com/MLIA/experimaestro-python): Experiment manager based on a server that contains a job scheduler
+  - [Experimaestro](https://github.com/MLIA/experimaestro-python): Experiment manager based on a server that contains a job scheduler [(Archived C++ version)](https://github.com/MLIA/experimaestro-cpp)
   - [Datamaestro](https://github.com/MLIA/datamaestro)
