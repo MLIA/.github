@@ -43,7 +43,8 @@
   - [BIOASQ challenge platform](http://www.bioasq.org/participate/challenges): BIOASQ was a EU project (2012-2014) – MLIA was in charge of developing the evaluation platform for the project. The platform is still active and challenges are organized every year from 2013 to 2017.
 
 ## Spatiotemporal phenomenon - dynamical systems
-
+- 2022
+  - [Generalizing to New Physical Systems via Context-Informed Dynamics Model](https://github.com/MLIA/CoDA) ([paper](https://arxiv.org/abs/2202.01889)) (ICML 2022)
 - 2021
   - [LEADS: Learning Dynamical Systems that Generalize Across Environments](https://github.com/MLIA/LEADS) ([paper](https://arxiv.org/abs/2106.04546)) (NeurIPS 2021)
   - [PDE-Driven Spatiotemporal Disentanglement](https://github.com/MLIA/spatiotemporal_variable_separation) ([paper](https://openreview.net/forum?id=vLaHRtHvfFp)) (ICLR 2021)
