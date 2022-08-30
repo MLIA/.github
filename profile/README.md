@@ -23,7 +23,7 @@
   - ![ST&DS](https://labl.es/svg?text=ST%26DS&bgcolor=5DADE2&width=60) [LEADS: Learning Dynamical Systems that Generalize Across Environments](https://github.com/MLIA/LEADS) ([paper](https://arxiv.org/abs/2106.04546)) (NeurIPS 2021)
   - ![ST&DS](https://labl.es/svg?text=ST%26DS&bgcolor=5DADE2&width=60) [PDE-Driven Spatiotemporal Disentanglement](https://github.com/MLIA/spatiotemporal_variable_separation) ([paper](https://openreview.net/forum?id=vLaHRtHvfFp)) (ICLR 2021)
   - ![ST&DS](https://labl.es/svg?text=ST%26DS&bgcolor=5DADE2&width=60) [APHYNITY: Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting](https://github.com/MLIA/APHYNITY) ([paper](https://arxiv.org/abs/2010.04456)) (ICLR 2021, Oral)
-  - ![Experimaestro IR](https://github.com/experimaestro/experimaestro-ir) An experimental paltform for (neural) Information Retrieval
+  - ![NLP&IR](https://labl.es/svg?text=NLP%26IR&bgcolor=9B59B6&width=60) [Experimaestro IR](https://github.com/experimaestro/experimaestro-ir) An experimental paltform for (neural) Information Retrieval
 - 2020:
   - ![CV](https://labl.es/svg?text=CV&bgcolor=F1C40F&width=60) [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://github.com/MLIA/ESL) ([paper](https://arxiv.org/abs/2006.08658)) (CVPR 2020 Workshop on Scalability in Autonomous Driving)
   - ![CV](https://labl.es/svg?text=CV&bgcolor=F1C40F&width=60) [Incremental learning for image classification (+ zero-shot)](https://github.com/MLIA/incremental_learning.pytorch) ([paper](https://arxiv.org/abs/2004.13513)) (ECCV 2020)
