@@ -10,6 +10,7 @@
 | ![EXP](https://labl.es/svg?text=EXP&bgcolor=0225C3&width=60) | Experiments and Datasets Software |
 
 - 2022
+  - ![ST&DS](https://labl.es/svg?text=ST%26DS&bgcolor=5DADE2&width=60) [Continuous PDE Dynamics Forecasting with Implicit Neural Representations](https://github.com/MLIA/DINo) ([paper](https://arxiv.org/abs/2209.14855))
   - ![ML](https://labl.es/svg?text=ML&bgcolor=ee0701&width=60) [GAN(TK)²: A Neural Tangent Kernel Perspective of GANs](https://github.com/MLIA/gantk2) ([paper](https://arxiv.org/abs/2106.05566)) (ICML 2022)
   - ![ML](https://labl.es/svg?text=ML&bgcolor=ee0701&width=60) [Diverse Weight Averaging for Out-of-Distribution Generalization](https://github.com/MLIA/diwa) ([paper](https://arxiv.org/abs/2205.09739))
   - ![ST&DS](https://labl.es/svg?text=ST%26DS&bgcolor=5DADE2&width=60) [Generalizing to New Physical Systems via Context-Informed Dynamics Model](https://github.com/MLIA/CoDA) ([paper](https://arxiv.org/abs/2202.01889)) (ICML 2022)
