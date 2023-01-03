@@ -12,6 +12,10 @@
 - 2023
   - ...
 - 2022
+  - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions ([paper](https://arxiv.org/abs/2212.07564)) (NeurIPS 2022)
+    - [AirfRANS code for reproducing results](https://github.com/MLIA/AirfRANS) 
+    - [NACA simulation for AirfRANS](https://github.com/MLIA/NACA_simulation)
+    - [AirfRANS library for dataset manipulation](https://github.com/Extrality/airfrans_lib)
   - ![NLP&IR](https://img.shields.io/badge/-NLP%26IR-purple) [DNER: Dynamic Named Entity Recognition framework](https://github.com/MLIA/DNER) 
   - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) [Multi-scale Physical Representations for Approximating PDE Solutions with Graph Neural Operators](https://github.com/MLIA/multi_scale_graph_neural_operator) ([paper](https://openreview.net/forum?id=rx9TVZJax5)) (ICLR 2022 GTRL Workshop)
   - ![NLP&IR](https://img.shields.io/badge/-NLP%26IR-purple) [Does Structure Matter? Leveraging Data-to-Text Generation for Answering Complex Information Needs](https://github.com/MLIA/Complex-Answer-Generation) ([paper](https://arxiv.org/abs/2112.04344)) (ECIR 2022, short paper)
