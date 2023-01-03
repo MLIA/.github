@@ -14,7 +14,7 @@
   - ![NLP&IR](https://img.shields.io/badge/-NLP%26IR-purple) [Continual Learning of Long Topic Sequences in Neural Information Retrieval](https://github.com/MLIA/continual_learning_of_long_topic) ([paper](https://arxiv.org/abs/2201.03356))
   - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) [Continuous PDE Dynamics Forecasting with Implicit Neural Representations](https://github.com/MLIA/DINo) ([paper](https://arxiv.org/abs/2209.14855))
   - ![ML](https://img.shields.io/badge/-ML-red) [GAN(TK)²: A Neural Tangent Kernel Perspective of GANs](https://github.com/MLIA/gantk2) ([paper](https://arxiv.org/abs/2106.05566)) (ICML 2022)
-  - ![ML](https://img.shields.io/badge/-ML-red) [Diverse Weight Averaging for Out-of-Distribution Generalization](https://github.com/MLIA/diwa) ([paper](https://arxiv.org/abs/2205.09739))
+  - ![ML](https://img.shields.io/badge/-ML-red) [Diverse Weight Averaging for Out-of-Distribution Generalization](https://github.com/MLIA/diwa) ([paper](https://arxiv.org/abs/2205.09739)) (NeurIPS 2022)
   - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) [Generalizing to New Physical Systems via Context-Informed Dynamics Model](https://github.com/MLIA/CoDA) ([paper](https://arxiv.org/abs/2202.01889)) (ICML 2022)
 
 - 2021  
