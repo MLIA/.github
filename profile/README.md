@@ -10,6 +10,7 @@
 | ![Exp](https://img.shields.io/badge/-Exp-darkblue) | Experiments and Datasets Software |
 
 - 2022
+  - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) [Multi-scale Physical Representations for Approximating PDE Solutions with Graph Neural Operators](https://github.com/MLIA/multi_scale_graph_neural_operator) ([paper](https://openreview.net/forum?id=rx9TVZJax5)) (ICLR 2022 GTRL Workshop)
   - ![NLP&IR](https://img.shields.io/badge/-NLP%26IR-purple) [Does Structure Matter? Leveraging Data-to-Text Generation for Answering Complex Information Needs](https://github.com/MLIA/Complex-Answer-Generation) ([paper](https://arxiv.org/abs/2112.04344)) (ECIR 2022, short paper)
   - ![NLP&IR](https://img.shields.io/badge/-NLP%26IR-purple) [Continual Learning of Long Topic Sequences in Neural Information Retrieval](https://github.com/MLIA/continual_learning_of_long_topic) ([paper](https://arxiv.org/abs/2201.03356))
   - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) [Continuous PDE Dynamics Forecasting with Implicit Neural Representations](https://github.com/MLIA/DINo) ([paper](https://arxiv.org/abs/2209.14855))
