@@ -11,6 +11,8 @@
 
 - 2023
   - ![NLP&IR](https://img.shields.io/badge/-NLP%26IR-purple) [Towards Example Based Neural Machine Translation with Multi-Levenshtein Transformer](https://github.com/MLIA/fairseq-mlevt) ([paper](https://arxiv.org/abs/2310.08967)) (EMNLP 2023)
+  - ![RL](https://img.shields.io/badge/-RL-green) [XPAG](https://github.com/MLIA/xpag): a modular reinforcement learning library with JAX agents.
+  - ![ML](https://img.shields.io/badge/-ML-red) [XOMX](https://github.com/MLIA/xomx): an open-source python library providing data processing and machine learning tools for computational omics, with a particular emphasis on explainability.
 - 2022
   - ![ST&DS](https://img.shields.io/badge/-ST%26DS-blue) AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions ([paper](https://arxiv.org/abs/2212.07564)) (NeurIPS 2022)
     - [AirfRANS code for reproducing results](https://github.com/MLIA/AirfRANS) 
